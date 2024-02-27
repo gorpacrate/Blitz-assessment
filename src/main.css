@@ -1,0 +1,51 @@
+body {
+  background-color: var(--color-gray);
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+:root {
+  --transitionLength: 0.2s;
+
+  --color-black: #000000;
+  --color-gray: #13161c;
+  --color-lightGreen: #1cd25e;
+  --color-lightYellow: #d2ba1c;
+  --color-darkGreen: #16452d;
+  --color-darkestGreen: #143426;
+
+  --color-textLight: #e3e5ea;
+  --color-textDark: #7a7e86;
+
+  --color-sliderThumb: #f7f7f7;
+  --color-sliderGradientFrom: #153326;
+  --color-sliderGradientTo: #24cf61;
+  --color-sliderGradientBorder: #245f3e;
+
+  --color-gaugeCircleBg: #35383e;
+  --color-gaugeCircleVal: #23d96b;
+
+  --color-gaugeBarBg: #282a30;
+
+  --color-barGray: #25282f;
+  --color-barGrayVal: #53575f;
+  --color-barGreen: #16452d;
+  --color-barGreenVal: #1cc058;
+  --color-barYellow: #453c16;
+  --color-barYellowVal: #c08f1c;
+  --color-barMedian: #515459;
+
+  --color-cardBorderRight: #1b1e25;
+  --color-cardBorderTopBottom: #16191e;
+  --color-cardBorderLeft: #17191e;
+
+  --color-statisticsLabel: #8d9096;
+  --color-statisticsValue: #dadce1;
+  --color-statisticsGray: #1d2128;
+  --color-statisticsOrange: #c18437;
+  --color-statisticsGreen: #1cc55a;
+}
